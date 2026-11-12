@@ -1,0 +1,10 @@
+path: D:/Kuliah/Semester 7/Visi Komputer/Code/datasets/traffic
+train: images/train
+val: images/val
+
+names:
+  0: car
+  1: motorcycle
+  2: bus
+  3: truck
+  4: traffic_light
